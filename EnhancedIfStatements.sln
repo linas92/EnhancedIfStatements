@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnhancedIfStatements", "EnhancedIfStatements.csproj", "{04512283-59DC-46BC-8546-99D130227FCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04512283-59DC-46BC-8546-99D130227FCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04512283-59DC-46BC-8546-99D130227FCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04512283-59DC-46BC-8546-99D130227FCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04512283-59DC-46BC-8546-99D130227FCF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37601C49-4F10-4FD5-9EC0-C561BE980866}
+	EndGlobalSection
+EndGlobal
